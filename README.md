@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I’m Manish<br>🎓 I’m a B.Tech(ISE) student who loves exploring technology and building things with code.<br><br>🧠 What I’m into<br>    - 🧩 Problem Solving & Coding  <br>    - 🌱 Learning new technologies  <br>    - 🛠️ Building small but meaningful projects  <br><br> Beyond Code<br>- ☕ Runs on Tea  <br>- 🎧 Loves music   <br>- 🌐 Enjoys exploring tech content  <br>- 😄 Curious, consistent, and always learning  <br><br>
+👋 Hey there! I’m Manisha<br>🎓 I’m a B.Tech(ISE) student who loves exploring technology and building things with code.<br><br>🧠 What I’m into<br>    - 🧩 Problem Solving & Coding  <br>    - 🌱 Learning new technologies  <br>    - 🛠️ Building small but meaningful projects  <br><br> Beyond Code<br>- ☕ Runs on Tea  <br>- 🎧 Loves music   <br>- 🌐 Enjoys exploring tech content  <br>- 😄 Curious, consistent, and always learning  <br><br>
 
 
 ## 🌐 Socials:

@@ -62,17 +62,17 @@
 <td width="50%" valign="top">
 
 **Project One**<br/>
-<sub>One-line description of what it does and why it's useful.</sub><br/><br/>
+<sub>This is our Final Year Project focusing on optimal routing by considering geo spatial constraints</sub><br/><br/>
 <img src="https://img.shields.io/badge/JavaScript-0b0f1a?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Node.js-0b0f1a?style=flat-square&logo=node.js&logoColor=6DA55F"/><br/>
-<a href="https://github.com/manish-g-p/YOUR-REPO">Repository</a> &nbsp;|&nbsp; <a href="#">Live demo</a>
+<a href="[https://github.com/manish-g-p/YOUR-REPO](https://github.com/manish-g-p/optimal-ship-routing)">Optimal Ship Routing</a> &nbsp;|&nbsp;
 
 </td>
 <td width="50%" valign="top">
 
 **Project Two**<br/>
-<sub>One-line description of what it does and why it's useful.</sub><br/><br/>
+<sub>A full-stack MERN application that turns a resume and a job description into a personalised interview strategy.</sub><br/><br/>
 <img src="https://img.shields.io/badge/Python-0b0f1a?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Flask-0b0f1a?style=flat-square&logo=flask&logoColor=white"/><br/>
-<a href="https://github.com/manish-g-p/YOUR-REPO">Repository</a> &nbsp;|&nbsp; <a href="#">Live demo</a>
+<a href="[https://github.com/manish-g-p/YOUR-REPO](https://github.com/manish-g-p/prepwise-ai-coach)">Prepwise-ai-coach</a> &nbsp;|&nbsp; 
 
 </td>
 </tr>
@@ -80,19 +80,11 @@
 <td width="50%" valign="top">
 
 **Project Three**<br/>
-<sub>One-line description of what it does and why it's useful.</sub><br/><br/>
+<sub>CarePulse is a self-hosted, privacy-focused healthcare app that turns consented doctor–patient conversations into encrypted, speaker-labeled, multilingual transcripts and clinical summaries.</sub><br/><br/>
 <img src="https://img.shields.io/badge/React-0b0f1a?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MongoDB-0b0f1a?style=flat-square&logo=mongodb&logoColor=4ea94b"/><br/>
-<a href="https://github.com/manish-g-p/YOUR-REPO">Repository</a> &nbsp;|&nbsp; <a href="#">Live demo</a>
+<a href="[https://github.com/manish-g-p/YOUR-REPO](https://github.com/manish-g-p/carepulse-mern)">Carepulse</a> &nbsp;|&nbsp; 
 
-</td>
-<td width="50%" valign="top">
 
-**Project Four**<br/>
-<sub>One-line description of what it does and why it's useful.</sub><br/><br/>
-<img src="https://img.shields.io/badge/HTML5-0b0f1a?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-0b0f1a?style=flat-square&logo=css3&logoColor=1572B6"/><br/>
-<a href="https://github.com/manish-g-p/YOUR-REPO">Repository</a> &nbsp;|&nbsp; <a href="#">Live demo</a>
-
-</td>
 </tr>
 </table>
 
@@ -140,9 +132,12 @@
 <!-- EDIT ME: replace with what you're actually learning right now. -->
 
 ```text
-[ ] Add your current learning goal #1
-[ ] Add your current learning goal #2
-[ ] Add your current learning goal #3
+[ ] Data Structures & Algorithms    
+[ ] Backend Engineering              
+[ ] Databases                        
+[ ] DevOps & Cloud                   
+[ ] System Design Fundamentals      
+[ ] Software Quality                 
 ```
 
 ## ◈ Developer Activity

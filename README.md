@@ -140,10 +140,9 @@
 <!-- EDIT ME: replace with what you're actually learning right now. -->
 
 ```text
-[] Full Stack                       
-[] DevOps & Cloud                  
-[] System Design Fundamentals       
-               
+[ ] Add your current learning goal #1
+[ ] Add your current learning goal #2
+[ ] Add your current learning goal #3
 ```
 
 ## ◈ Developer Activity

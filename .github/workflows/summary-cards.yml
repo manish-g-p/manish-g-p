@@ -1,0 +1,32 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "30 0 * * *"     # daily, 00:30 UTC (after the 3D job)
+  workflow_dispatch:
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Built-in token works for public data. If the run fails with a
+          # GraphQL/permission error, create a PAT and store it as the secret
+          # SUMMARY_GITHUB_TOKEN, then use that secret here instead.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          TIME_ZONE: "Asia/Kolkata"   # used by the Productive Time card; change if you like
+          THEME: "tokyonight"         # only generate the theme we actually use
+          ANIMATION: "rise"
+          DURATION: "2"
